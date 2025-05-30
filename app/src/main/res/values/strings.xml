@@ -1,5 +1,6 @@
 <resources>
-    <string name="app_name">Trabajo Practico - Jonatan Palavecino</string>
+    <string name="app_name">JB Premium</string>
+    <string name="app_title">Vinos Españoles</string>
 
     <string name="open">Abrir Menu</string>
     <string name="close">Cerrar Menu</string>
@@ -9,6 +10,35 @@
     <string name="nav_productos">Productos</string>
     <string name="nav_carrito">Mi Carrito</string>
     <string name="nav_auth">Inicio Sesión</string>
+
+    <string name="slider_one_text">Te traemos una experiencia</string>
+    <string name="slider_two_text">Te brindamos vinos con Identidad</string>
+    <string name="slider_three_text">Importamos Historia</string>
+    <string name="slider_four_text">Te compartimos Cultura y Origenes</string>
+
+    <string name="title_init">Descubri nuestros Vinos</string>
+
+    <string name="title_one_product">Albariño</string>
+    <string name="price_one_product">$ 10.000</string>
+    <string name="title_two_product">Albillo</string>
+    <string name="price_two_product">$ 12.000</string>
+    <string name="title_three_product">Crianza</string>
+    <string name="price_three_product">$ 15.000</string>
+    <string name="btn_product">Ver mas</string>
+
+    <string name="btn_register">¿No tenés cuenta? Registrate acá</string>
+    <string name="btn_login">¿Ya tenés cuenta? Iniciá sesión</string>
+
+    <string name="btn_register_title">Registrate</string>
+    <string name="btn_login_title">Iniciar sesión</string>
+
+    <string name="nosotros_one">JB Premium es una empresa localizada en Argentina, Buenos aires, especializada en la comercialización y distribución de vinos españoles. Contamos con 10 años de experiencia en la importación, representando con exclusividad a bodegas líderes y con historia en esta categoría siendo pioneras a lo largo de la historia.
+Desarrollamos nuestra actividad a través de múltiples canales comerciales: mayoristas, restaurantes, vinotecas, y amantes del vino.</string>
+    <string name="nosotros_two">Nuestro objetivo principal es proveer productos de calidad, con raíces e historia y ponerlos al alcance del consumidor Argentino pasando por la experiencia del viejo continente en su mesa y traerles el mayor tesoro vinícola del mundo.</string>
+    <string name="nosotros_three">Nos apasiona la comercialización, los vinos que representamos y el éxito compartido, Respetando todos los procesos, valorando la tierra, la gente y la cultura española.</string>
+    <string name="nosotros_four">Nuestra filosofía de negocios es ofrecer un alto nivel de vinos y al mejor precio posible, dándonos a conocer en toda la Argentina, y puedan pasar por una experiencia única.</string>
+
+
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
 

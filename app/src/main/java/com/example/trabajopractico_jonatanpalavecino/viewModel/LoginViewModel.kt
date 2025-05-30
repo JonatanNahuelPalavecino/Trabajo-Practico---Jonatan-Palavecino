@@ -4,7 +4,7 @@ import androidx.core.util.PatternsCompat
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
 
-class AuthViewModel: ViewModel() {
+class LoginViewModel: ViewModel() {
 
     private var email: String = ""
     private var password: String = ""
